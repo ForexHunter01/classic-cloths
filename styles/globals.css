@@ -16,6 +16,7 @@ body {
   background: linear-gradient(180deg, #ffffff 0%, #f7fafc 100%);
   color: #1a202c;
   line-height: 1.6;
+  margin: 0;
 }
 
 /* Headings */
@@ -56,6 +57,7 @@ button {
   font-weight: 600;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
+  border: none;
 }
 button:hover {
   background-color: #2563eb;
