@@ -34,7 +34,7 @@ export default function Checkout(){
           </div>
         </div>
 
-        <form action={formAction || 'https://formspree.io/f/your-id'} method="POST" className="mt-6 space-y-4 bg-white p-4 rounded shadow">
+        <form action={formAction || 'https://formspree.io/f/mvgbgzdr'} method="POST" className="mt-6 space-y-4 bg-white p-4 rounded shadow">
           <h2 className="font-medium">Customer Details</h2>
           <input type="hidden" name="order_summary" value={JSON.stringify(items)} />
           <div className="grid gap-2 md:grid-cols-2">
