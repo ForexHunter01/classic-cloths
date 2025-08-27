@@ -1,0 +1,74 @@
+[
+  {
+    "id": "p1",
+    "name": "কটন টি-শার্ট",
+    "price": 650,
+    "rating": 4.5,
+    "image": "/images/p1.jpg",
+    "category": "পোশাক",
+    "tags": [
+      "men",
+      "summer"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "রানিং স্নিকার্স",
+    "price": 2850,
+    "rating": 4.2,
+    "image": "/images/p2.jpg",
+    "category": "জুতা",
+    "tags": [
+      "sports",
+      "unisex"
+    ]
+  },
+  {
+    "id": "p3",
+    "name": "ওয়্যারলেস ইয়ারবাড",
+    "price": 1990,
+    "rating": 4.7,
+    "image": "/images/p3.jpg",
+    "category": "ইলেকট্রনিক্স",
+    "tags": [
+      "audio",
+      "gadget"
+    ]
+  },
+  {
+    "id": "p4",
+    "name": "ল্যাপটপ ব্যাকপ্যাক",
+    "price": 1450,
+    "rating": 4.3,
+    "image": "/images/p4.jpg",
+    "category": "ব্যাগ",
+    "tags": [
+      "work",
+      "travel"
+    ]
+  },
+  {
+    "id": "p5",
+    "name": "স্টেইনলেস ওয়াটার বোতল",
+    "price": 490,
+    "rating": 4.1,
+    "image": "/images/p5.jpg",
+    "category": "হোম & কিচেন",
+    "tags": [
+      "bottle",
+      "outdoor"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "কটন স্কার্ফ",
+    "price": 350,
+    "rating": 4.0,
+    "image": "/images/p6.jpg",
+    "category": "পোশাক",
+    "tags": [
+      "women",
+      "winter"
+    ]
+  }
+]
